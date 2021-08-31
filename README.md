@@ -2,6 +2,7 @@
 
 ## Assignments, projects, and additional coursework all correspond to the Fall 2021 semester BDA-594 class taught by Dr. Ming-Hsiang Tsou. *This is my first semester as a graduate student enrolled in San Diego State University's Big Data Analytics Master's of Science program.*
 
+
 ## Further Information
 Ryan Lafler \
 BDA-594 \
