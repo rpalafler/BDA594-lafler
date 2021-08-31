@@ -7,4 +7,4 @@ Ryan Lafler \
 **DEFINING BIG DATA**\
 Big data is a broad term that applies to exceptionally large datasets not easily handled or quantified through traditional data analysis techniques or database management.
 
-![Ryan Lafler](lafler.jpg)
+![Ryan Lafler](miscellaneous/lafler.jpg)
